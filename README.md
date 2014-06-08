@@ -1,4 +1,5 @@
 Rubber Hand Illusion in Mixed Reality Environment
+-------------------------------------------------------
 
 This project replicates traditional "rubber hand illusion" in a mixed reality environment. The illusion is created in a virtual environment with help of Unity integrated with Oculus Rift. Parallely, feedback is given from real environment. 
 
