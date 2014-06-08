@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Furniture Pack 1 Free\Scripts\BloodSound.js">
+    <Files>
+      <File FileName="Assets\Furniture Pack 1 Free\Scripts\BloodParticle.js" Line="39" Column="3" />
+      <File FileName="Assets\Furniture Pack 1 Free\Scripts\BloodSound.js" Line="9" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
