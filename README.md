@@ -5,3 +5,7 @@ This project replicates traditional "rubber hand illusion" in a mixed reality en
 To execute this project: Copy this project in your desktop. Then, go to Assets -> Furniture Pack 1 Free -> Start.unity.
 
 After this, you will redirected one after the other scenes. You will also need Oculus Rift and Unity Pro version to have the illusion created.
+
+Copyright © Payel Bandyopadhyay
+--------------------------------------
+This code cannot be used by any other party without any permission. If done, then it will be illegal. For further contributions, please contact pbandyop@cs.helsinki.fi
